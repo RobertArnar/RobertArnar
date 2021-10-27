@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobertArnar
-- 👀 I’m interested in making indie game project
+- 👀 I’m interested in making indie game projects
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on a game idea I have
 - 📫 You can reach me on Twitter @RobertArnarB
